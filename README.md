@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/license/SpandanMozumder/iPhone-Clone">
 
 ## About
-The new iPhone 14 website cloned
+The new iPhone 15 website cloned
 
 ## Features
 - UI same as that of the original website
