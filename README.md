@@ -15,7 +15,8 @@ The new iPhone 15 website cloned
 - 360-degree viewable iPhone Model with different colors.
     
 ## Demo
-[Include a link or GIF showcasing the demo here]
+
+https://i-phone-clone-three.vercel.app/
 
 ## Tech Stack Used
 - <img src="https://skillicons.dev/icons?i=html" />
